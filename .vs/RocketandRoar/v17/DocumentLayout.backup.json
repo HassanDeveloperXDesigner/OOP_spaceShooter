@@ -1,0 +1,317 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\CS\\2ndSemester\\SpaceShooter_gameProject\\Game\\SpaceShooter\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4312407C-C40C-439A-A950-3A8B09588F48}|RocketandRoar\\RocketandRoar.csproj|e:\\cs\\2ndsemester\\spaceshooter_gameproject\\game\\spaceshooter\\rocketandroar\\ui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4312407C-C40C-439A-A950-3A8B09588F48}|RocketandRoar\\RocketandRoar.csproj|solutionrelative:rocketandroar\\ui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4312407C-C40C-439A-A950-3A8B09588F48}|RocketandRoar\\RocketandRoar.csproj|e:\\cs\\2ndsemester\\spaceshooter_gameproject\\game\\spaceshooter\\rocketandroar\\bl\\classes\\gameobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4312407C-C40C-439A-A950-3A8B09588F48}|RocketandRoar\\RocketandRoar.csproj|solutionrelative:rocketandroar\\bl\\classes\\gameobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4312407C-C40C-439A-A950-3A8B09588F48}|RocketandRoar\\RocketandRoar.csproj|e:\\cs\\2ndsemester\\spaceshooter_gameproject\\game\\spaceshooter\\rocketandroar\\bl\\classes\\imovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4312407C-C40C-439A-A950-3A8B09588F48}|RocketandRoar\\RocketandRoar.csproj|solutionrelative:rocketandroar\\bl\\classes\\imovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4312407C-C40C-439A-A950-3A8B09588F48}|RocketandRoar\\RocketandRoar.csproj|e:\\cs\\2ndsemester\\spaceshooter_gameproject\\game\\spaceshooter\\rocketandroar\\bl\\classes\\playerbullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4312407C-C40C-439A-A950-3A8B09588F48}|RocketandRoar\\RocketandRoar.csproj|solutionrelative:rocketandroar\\bl\\classes\\playerbullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4312407C-C40C-439A-A950-3A8B09588F48}|RocketandRoar\\RocketandRoar.csproj|e:\\cs\\2ndsemester\\spaceshooter_gameproject\\game\\spaceshooter\\rocketandroar\\bl\\classes\\playermove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4312407C-C40C-439A-A950-3A8B09588F48}|RocketandRoar\\RocketandRoar.csproj|solutionrelative:rocketandroar\\bl\\classes\\playermove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4312407C-C40C-439A-A950-3A8B09588F48}|RocketandRoar\\RocketandRoar.csproj|e:\\cs\\2ndsemester\\spaceshooter_gameproject\\game\\spaceshooter\\rocketandroar\\bl\\classes\\verticle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4312407C-C40C-439A-A950-3A8B09588F48}|RocketandRoar\\RocketandRoar.csproj|solutionrelative:rocketandroar\\bl\\classes\\verticle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4312407C-C40C-439A-A950-3A8B09588F48}|RocketandRoar\\RocketandRoar.csproj|e:\\cs\\2ndsemester\\spaceshooter_gameproject\\game\\spaceshooter\\rocketandroar\\bl\\classes\\zigzag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4312407C-C40C-439A-A950-3A8B09588F48}|RocketandRoar\\RocketandRoar.csproj|solutionrelative:rocketandroar\\bl\\classes\\zigzag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4312407C-C40C-439A-A950-3A8B09588F48}|RocketandRoar\\RocketandRoar.csproj|e:\\cs\\2ndsemester\\spaceshooter_gameproject\\game\\spaceshooter\\rocketandroar\\bl\\enum\\direction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4312407C-C40C-439A-A950-3A8B09588F48}|RocketandRoar\\RocketandRoar.csproj|solutionrelative:rocketandroar\\bl\\enum\\direction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4312407C-C40C-439A-A950-3A8B09588F48}|RocketandRoar\\RocketandRoar.csproj|e:\\cs\\2ndsemester\\spaceshooter_gameproject\\game\\spaceshooter\\rocketandroar\\bl\\enum\\gameobjecttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4312407C-C40C-439A-A950-3A8B09588F48}|RocketandRoar\\RocketandRoar.csproj|solutionrelative:rocketandroar\\bl\\enum\\gameobjecttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4312407C-C40C-439A-A950-3A8B09588F48}|RocketandRoar\\RocketandRoar.csproj|e:\\cs\\2ndsemester\\spaceshooter_gameproject\\game\\spaceshooter\\rocketandroar\\bl\\enum\\collisiondetection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4312407C-C40C-439A-A950-3A8B09588F48}|RocketandRoar\\RocketandRoar.csproj|solutionrelative:rocketandroar\\bl\\enum\\collisiondetection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4312407C-C40C-439A-A950-3A8B09588F48}|RocketandRoar\\RocketandRoar.csproj|e:\\cs\\2ndsemester\\spaceshooter_gameproject\\game\\spaceshooter\\rocketandroar\\bl\\classes\\firemovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4312407C-C40C-439A-A950-3A8B09588F48}|RocketandRoar\\RocketandRoar.csproj|solutionrelative:rocketandroar\\bl\\classes\\firemovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4312407C-C40C-439A-A950-3A8B09588F48}|RocketandRoar\\RocketandRoar.csproj|e:\\cs\\2ndsemester\\spaceshooter_gameproject\\game\\spaceshooter\\rocketandroar\\ui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4312407C-C40C-439A-A950-3A8B09588F48}|RocketandRoar\\RocketandRoar.csproj|solutionrelative:rocketandroar\\ui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4312407C-C40C-439A-A950-3A8B09588F48}|RocketandRoar\\RocketandRoar.csproj|E:\\CS\\2ndSemester\\SpaceShooter_gameProject\\Game\\SpaceShooter\\rocketandroar\\game over.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4312407C-C40C-439A-A950-3A8B09588F48}|RocketandRoar\\RocketandRoar.csproj|solutionrelative:rocketandroar\\game over.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4312407C-C40C-439A-A950-3A8B09588F48}|RocketandRoar\\RocketandRoar.csproj|E:\\CS\\2ndSemester\\SpaceShooter_gameProject\\Game\\SpaceShooter\\rocketandroar\\starter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4312407C-C40C-439A-A950-3A8B09588F48}|RocketandRoar\\RocketandRoar.csproj|solutionrelative:rocketandroar\\starter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4312407C-C40C-439A-A950-3A8B09588F48}|RocketandRoar\\RocketandRoar.csproj|E:\\CS\\2ndSemester\\SpaceShooter_gameProject\\Game\\SpaceShooter\\rocketandroar\\starter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4312407C-C40C-439A-A950-3A8B09588F48}|RocketandRoar\\RocketandRoar.csproj|solutionrelative:rocketandroar\\starter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4312407C-C40C-439A-A950-3A8B09588F48}|RocketandRoar\\RocketandRoar.csproj|E:\\CS\\2ndSemester\\SpaceShooter_gameProject\\Game\\SpaceShooter\\rocketandroar\\game over.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4312407C-C40C-439A-A950-3A8B09588F48}|RocketandRoar\\RocketandRoar.csproj|solutionrelative:rocketandroar\\game over.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4312407C-C40C-439A-A950-3A8B09588F48}|RocketandRoar\\RocketandRoar.csproj|E:\\CS\\2ndSemester\\SpaceShooter_gameProject\\Game\\SpaceShooter\\rocketandroar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4312407C-C40C-439A-A950-3A8B09588F48}|RocketandRoar\\RocketandRoar.csproj|solutionrelative:rocketandroar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4312407C-C40C-439A-A950-3A8B09588F48}|RocketandRoar\\RocketandRoar.csproj|E:\\CS\\2ndSemester\\SpaceShooter_gameProject\\Game\\SpaceShooter\\rocketandroar\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{4312407C-C40C-439A-A950-3A8B09588F48}|RocketandRoar\\RocketandRoar.csproj|solutionrelative:rocketandroar\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameObject.cs",
+              "DocumentMoniker": "E:\\CS\\2ndSemester\\SpaceShooter_gameProject\\Game\\SpaceShooter\\RocketandRoar\\BL\\Classes\\GameObject.cs",
+              "RelativeDocumentMoniker": "RocketandRoar\\BL\\Classes\\GameObject.cs",
+              "ToolTip": "E:\\CS\\2ndSemester\\SpaceShooter_gameProject\\Game\\SpaceShooter\\RocketandRoar\\BL\\Classes\\GameObject.cs",
+              "RelativeToolTip": "RocketandRoar\\BL\\Classes\\GameObject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T10:32:26.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Imovement.cs",
+              "DocumentMoniker": "E:\\CS\\2ndSemester\\SpaceShooter_gameProject\\Game\\SpaceShooter\\RocketandRoar\\BL\\Classes\\Imovement.cs",
+              "RelativeDocumentMoniker": "RocketandRoar\\BL\\Classes\\Imovement.cs",
+              "ToolTip": "E:\\CS\\2ndSemester\\SpaceShooter_gameProject\\Game\\SpaceShooter\\RocketandRoar\\BL\\Classes\\Imovement.cs",
+              "RelativeToolTip": "RocketandRoar\\BL\\Classes\\Imovement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T10:32:24.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Playerbullet.cs",
+              "DocumentMoniker": "E:\\CS\\2ndSemester\\SpaceShooter_gameProject\\Game\\SpaceShooter\\RocketandRoar\\BL\\Classes\\Playerbullet.cs",
+              "RelativeDocumentMoniker": "RocketandRoar\\BL\\Classes\\Playerbullet.cs",
+              "ToolTip": "E:\\CS\\2ndSemester\\SpaceShooter_gameProject\\Game\\SpaceShooter\\RocketandRoar\\BL\\Classes\\Playerbullet.cs",
+              "RelativeToolTip": "RocketandRoar\\BL\\Classes\\Playerbullet.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T10:32:20.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PlayerMove.cs",
+              "DocumentMoniker": "E:\\CS\\2ndSemester\\SpaceShooter_gameProject\\Game\\SpaceShooter\\RocketandRoar\\BL\\Classes\\PlayerMove.cs",
+              "RelativeDocumentMoniker": "RocketandRoar\\BL\\Classes\\PlayerMove.cs",
+              "ToolTip": "E:\\CS\\2ndSemester\\SpaceShooter_gameProject\\Game\\SpaceShooter\\RocketandRoar\\BL\\Classes\\PlayerMove.cs",
+              "RelativeToolTip": "RocketandRoar\\BL\\Classes\\PlayerMove.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T10:32:14.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Verticle.cs",
+              "DocumentMoniker": "E:\\CS\\2ndSemester\\SpaceShooter_gameProject\\Game\\SpaceShooter\\RocketandRoar\\BL\\Classes\\Verticle.cs",
+              "RelativeDocumentMoniker": "RocketandRoar\\BL\\Classes\\Verticle.cs",
+              "ToolTip": "E:\\CS\\2ndSemester\\SpaceShooter_gameProject\\Game\\SpaceShooter\\RocketandRoar\\BL\\Classes\\Verticle.cs",
+              "RelativeToolTip": "RocketandRoar\\BL\\Classes\\Verticle.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T10:32:09.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ZigZag.cs",
+              "DocumentMoniker": "E:\\CS\\2ndSemester\\SpaceShooter_gameProject\\Game\\SpaceShooter\\RocketandRoar\\BL\\Classes\\ZigZag.cs",
+              "RelativeDocumentMoniker": "RocketandRoar\\BL\\Classes\\ZigZag.cs",
+              "ToolTip": "E:\\CS\\2ndSemester\\SpaceShooter_gameProject\\Game\\SpaceShooter\\RocketandRoar\\BL\\Classes\\ZigZag.cs",
+              "RelativeToolTip": "RocketandRoar\\BL\\Classes\\ZigZag.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T10:32:06.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Direction.cs",
+              "DocumentMoniker": "E:\\CS\\2ndSemester\\SpaceShooter_gameProject\\Game\\SpaceShooter\\RocketandRoar\\BL\\Enum\\Direction.cs",
+              "RelativeDocumentMoniker": "RocketandRoar\\BL\\Enum\\Direction.cs",
+              "ToolTip": "E:\\CS\\2ndSemester\\SpaceShooter_gameProject\\Game\\SpaceShooter\\RocketandRoar\\BL\\Enum\\Direction.cs",
+              "RelativeToolTip": "RocketandRoar\\BL\\Enum\\Direction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T10:31:15.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GameObjectType.cs",
+              "DocumentMoniker": "E:\\CS\\2ndSemester\\SpaceShooter_gameProject\\Game\\SpaceShooter\\RocketandRoar\\BL\\Enum\\GameObjectType.cs",
+              "RelativeDocumentMoniker": "RocketandRoar\\BL\\Enum\\GameObjectType.cs",
+              "ToolTip": "E:\\CS\\2ndSemester\\SpaceShooter_gameProject\\Game\\SpaceShooter\\RocketandRoar\\BL\\Enum\\GameObjectType.cs",
+              "RelativeToolTip": "RocketandRoar\\BL\\Enum\\GameObjectType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T10:31:14.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Collisiondetection.cs",
+              "DocumentMoniker": "E:\\CS\\2ndSemester\\SpaceShooter_gameProject\\Game\\SpaceShooter\\RocketandRoar\\BL\\Enum\\Collisiondetection.cs",
+              "RelativeDocumentMoniker": "RocketandRoar\\BL\\Enum\\Collisiondetection.cs",
+              "ToolTip": "E:\\CS\\2ndSemester\\SpaceShooter_gameProject\\Game\\SpaceShooter\\RocketandRoar\\BL\\Enum\\Collisiondetection.cs",
+              "RelativeToolTip": "RocketandRoar\\BL\\Enum\\Collisiondetection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T10:31:12.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FireMovement.cs",
+              "DocumentMoniker": "E:\\CS\\2ndSemester\\SpaceShooter_gameProject\\Game\\SpaceShooter\\RocketandRoar\\BL\\Classes\\FireMovement.cs",
+              "RelativeDocumentMoniker": "RocketandRoar\\BL\\Classes\\FireMovement.cs",
+              "ToolTip": "E:\\CS\\2ndSemester\\SpaceShooter_gameProject\\Game\\SpaceShooter\\RocketandRoar\\BL\\Classes\\FireMovement.cs",
+              "RelativeToolTip": "RocketandRoar\\BL\\Classes\\FireMovement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T10:31:07.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Game over.cs [Design]",
+              "DocumentMoniker": "E:\\CS\\2ndSemester\\SpaceShooter_gameProject\\Game\\SpaceShooter\\RocketandRoar\\Game over.cs",
+              "RelativeDocumentMoniker": "RocketandRoar\\Game over.cs",
+              "ToolTip": "E:\\CS\\2ndSemester\\SpaceShooter_gameProject\\Game\\UI\\RocketandRoar\\Game over.cs [Design]",
+              "RelativeToolTip": "..\\UI\\RocketandRoar\\Game over.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T07:57:15.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Starter.cs",
+              "DocumentMoniker": "E:\\CS\\2ndSemester\\SpaceShooter_gameProject\\Game\\SpaceShooter\\RocketandRoar\\Starter.cs",
+              "RelativeDocumentMoniker": "RocketandRoar\\Starter.cs",
+              "ToolTip": "E:\\CS\\2ndSemester\\SpaceShooter_gameProject\\Game\\SpaceShooter\\RocketandRoar\\Starter.cs",
+              "RelativeToolTip": "RocketandRoar\\Starter.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T08:08:48.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "E:\\CS\\2ndSemester\\SpaceShooter_gameProject\\Game\\SpaceShooter\\RocketandRoar\\Properties\\Resources.resx",
+              "RelativeDocumentMoniker": "RocketandRoar\\Properties\\Resources.resx",
+              "ToolTip": "E:\\CS\\2ndSemester\\SpaceShooter_gameProject\\Game\\SpaceShooter\\RocketandRoar\\Properties\\Resources.resx",
+              "RelativeToolTip": "RocketandRoar\\Properties\\Resources.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-05-08T08:02:51.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "E:\\CS\\2ndSemester\\SpaceShooter_gameProject\\Game\\SpaceShooter\\RocketandRoar\\UI\\Form1.cs",
+              "RelativeDocumentMoniker": "RocketandRoar\\UI\\Form1.cs",
+              "ToolTip": "E:\\CS\\2ndSemester\\SpaceShooter_gameProject\\Game\\SpaceShooter\\RocketandRoar\\UI\\Form1.cs [Design]",
+              "RelativeToolTip": "RocketandRoar\\UI\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T07:57:38.036Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Starter.cs [Design]",
+              "DocumentMoniker": "E:\\CS\\2ndSemester\\SpaceShooter_gameProject\\Game\\SpaceShooter\\RocketandRoar\\Starter.cs",
+              "RelativeDocumentMoniker": "RocketandRoar\\Starter.cs",
+              "ToolTip": "E:\\CS\\2ndSemester\\SpaceShooter_gameProject\\Game\\UI\\RocketandRoar\\Starter.cs [Design]",
+              "RelativeToolTip": "..\\UI\\RocketandRoar\\Starter.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T08:14:53.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\CS\\2ndSemester\\SpaceShooter_gameProject\\Game\\SpaceShooter\\RocketandRoar\\Program.cs",
+              "RelativeDocumentMoniker": "RocketandRoar\\Program.cs",
+              "ToolTip": "E:\\CS\\2ndSemester\\SpaceShooter_gameProject\\Game\\SpaceShooter\\RocketandRoar\\Program.cs",
+              "RelativeToolTip": "RocketandRoar\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T07:55:43.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\CS\\2ndSemester\\SpaceShooter_gameProject\\Game\\SpaceShooter\\RocketandRoar\\UI\\Form1.cs",
+              "RelativeDocumentMoniker": "RocketandRoar\\UI\\Form1.cs",
+              "ToolTip": "E:\\CS\\2ndSemester\\SpaceShooter_gameProject\\Game\\SpaceShooter\\RocketandRoar\\UI\\Form1.cs",
+              "RelativeToolTip": "RocketandRoar\\UI\\Form1.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAABwAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T07:57:39.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Game over.cs",
+              "DocumentMoniker": "E:\\CS\\2ndSemester\\SpaceShooter_gameProject\\Game\\SpaceShooter\\RocketandRoar\\Game over.cs",
+              "RelativeDocumentMoniker": "RocketandRoar\\Game over.cs",
+              "ToolTip": "E:\\CS\\2ndSemester\\SpaceShooter_gameProject\\Game\\SpaceShooter\\RocketandRoar\\Game over.cs",
+              "RelativeToolTip": "RocketandRoar\\Game over.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T07:57:18.672Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
