@@ -40,9 +40,10 @@
             label1.AutoSize = true;
             label1.BackColor = System.Drawing.Color.LightCyan;
             label1.Font = new System.Drawing.Font("Microsoft Tai Le", 19.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            label1.Location = new System.Drawing.Point(436, 771);
+            label1.Location = new System.Drawing.Point(291, 501);
+            label1.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             label1.Name = "label1";
-            label1.Size = new System.Drawing.Size(615, 51);
+            label1.Size = new System.Drawing.Size(415, 34);
             label1.TabIndex = 2;
             label1.Text = "Press Space Key to continue .....";
             // 
@@ -50,10 +51,10 @@
             // 
             this.progressBar2.BackColor = System.Drawing.Color.Yellow;
             this.progressBar2.ForeColor = System.Drawing.Color.Yellow;
-            this.progressBar2.Location = new System.Drawing.Point(524, 718);
-            this.progressBar2.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            this.progressBar2.Location = new System.Drawing.Point(349, 467);
+            this.progressBar2.Margin = new System.Windows.Forms.Padding(2, 3, 2, 3);
             this.progressBar2.Name = "progressBar2";
-            this.progressBar2.Size = new System.Drawing.Size(466, 39);
+            this.progressBar2.Size = new System.Drawing.Size(311, 25);
             this.progressBar2.TabIndex = 1;
             this.progressBar2.Click += new System.EventHandler(this.progressBar2_Click);
             // 
@@ -63,15 +64,15 @@
             // 
             // Starter
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackgroundImage = global::RocketandRoar.Properties.Resources.Background1;
+            this.BackgroundImage = global::RocketandRoar.Properties.Resources.StartUP;
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.ClientSize = new System.Drawing.Size(1361, 809);
+            this.ClientSize = new System.Drawing.Size(907, 487);
             this.Controls.Add(label1);
             this.Controls.Add(this.progressBar2);
             this.DoubleBuffered = true;
-            this.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            this.Margin = new System.Windows.Forms.Padding(2, 3, 2, 3);
             this.Name = "Starter";
             this.Text = "Starter";
             this.Load += new System.EventHandler(this.Starter_Load);

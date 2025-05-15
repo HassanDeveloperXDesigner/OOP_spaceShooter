@@ -140,6 +140,13 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Resources\3d-grunge-room-interior.jpg" />
+    <Content Include="Resources\enemy_boss.png" />
+    <Content Include="Resources\laserRed01_down.png" />
+    <Content Include="Resources\laserYellow01.png" />
+    <Content Include="Resources\player1.png" />
+    <Content Include="Resources\player2.png" />
+    <Content Include="Resources\StartUP.png" />
+    <None Include="Resources\Background %281%29.png" />
     <Content Include="Resources\Dead1.png" />
     <Content Include="Resources\Dead4.png" />
     <Content Include="Resources\Dead5.png" />

@@ -31,10 +31,10 @@ namespace RocketandRoar
         {
             game = Game.GetGameInstance(this);
             Point Boundary = new Point(this.Width,this.Height);
-            game.addGameObject(Resources.player,GameObjectType.Player, 250, 500,new PlayerMove(10,Boundary));
+            game.addGameObject(Resources.player1,GameObjectType.Player, 250, 500,new PlayerMove(10,Boundary));
             game.addGameObject(Resources.enemy1, GameObjectType.Enemy,40, 10, new Verticle(3, Boundary, Direction.Down));
             game.addGameObject(Resources.enemy1, GameObjectType.Enemy,250, 10, new Horizontal(3, Boundary,Direction.Left));
-            game.addGameObject(Resources.enemy1, GameObjectType.Enemy,350, 10, new Verticle(5, Boundary, Direction.Down));
+            game.addGameObject(Resources.enemy_boss, GameObjectType.Enemy,350, 10, new Verticle(5, Boundary, Direction.Down));
             
             CollisionD collisionDetection1 = new CollisionD(GameObjectType.Player, GameObjectType.Enemy, Collisiondetection.DecreaseHealth);
             CollisionD collisionDetection2 = new CollisionD(GameObjectType.PlayerFire, GameObjectType.Enemy, Collisiondetection.Kill);
@@ -52,7 +52,7 @@ namespace RocketandRoar
             if(Keyboard.IsKeyPressed(Key.Space))
             {
                 firingSoundPlayer.Play();
-                game.FirePlayer(Resources.laserRed01);
+                game.FirePlayer(Resources.laserYellow01);
                 //game.addBullet(Resources.laserRed01, 250, 510, new Playerbullet(20, Boundary));
             }
             game.RemoveGameObject();
